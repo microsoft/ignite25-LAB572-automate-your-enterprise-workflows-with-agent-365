@@ -1,10 +1,16 @@
 # Welcome
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam luctus sit amet elit ut dignissim. Cras quis sollicitudin urna, vel elementum lorem. Quisque volutpat mauris orci, eu imperdiet tortor sagittis in. Nunc ac augue non ipsum placerat luctus vel vel metus. Praesent ut mauris mauris. Proin vehicula mauris et lectus gravida, sit amet rhoncus leo tincidunt. Aliquam ac lectus eleifend lorem gravida porttitor eget vitae magna. Aenean elementum turpis sit amet massa luctus, sit amet aliquam libero congue.
+This lab is being presented by Microsoft by Nathan Helgren (Principal Product Manager) and Rakesh Krishnan (Principal PM Lead).The focus of this lab is to gain familiarity withMCP servers which can be added to agents to autmoate and simplify daily processes.
 
 ## Introduction
 
-Donec id augue a est auctor sodales. In molestie volutpat ante, et scelerisque erat aliquam eleifend. Aliquam erat volutpat. Etiam turpis ex, accumsan nec nibh non, suscipit laoreet dui. Fusce finibus pulvinar erat ut vehicula. Donec a tincidunt ante, quis ultricies massa. Phasellus consectetur nunc vel elit lacinia auctor. 
+In this lab you will get hands on experience with A365 agents and MCP servers. You will do the following:
+- Get an overview of A365 agents and MCP servers
+- View an A365 agent and become familiar with its structure
+- Create a custom MCP server in Visual Studio
+- Create a Microsoft Copilot Agent and add servers including new Agent 365 servers
+- Test MCP servers in Copilot Studio
+
 
 ## View these docs in your browser
 
