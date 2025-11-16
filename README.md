@@ -4,7 +4,7 @@
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥Lab572: Automate your enterprise workflows with MCP Tools
+## 🔥LAB572: Automate your enterprise workflows with MCP Tools
 
 
 ### Session Description
