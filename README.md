@@ -4,11 +4,26 @@
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## LAB572: Automate your enterprise workflows with MCP Tools
+## 🔥Lab572: Automate your enterprise workflows with MCP Tools
+
 
 ### Session Description
 
-Learn how MCP and tools can streamline common activities. Get direct autonomous assistance seamlessly integrated with Microsoft 365 apps - calendars, documents, emails, and more.
+This lab is designed to demonstrate the newest Model COntext Protocol (MCP) servers that have released to be used with agents that are part of Agent 365. There will be an introduction to Agent 365 and MCPs, and then hands-on experience building a Copilot STutio agent, configuring it, and then adding in the new MCP servers for mail, calendar, and Sharepoint. We will be using them together in increasinly complex queries that span multiple servers and tools. There will also be a demonstation of the new observability functinality that allows makers to see how the agents are performing.
+
+### 🧠 Learning Outcomes
+
+By the end of this session, learners will be able to:
+
+-  Describe Agent 365 and MCP servers
+-  Create a Copilot Studio agent that is configured to opnly provide answers and responses based on specific data sources
+-  Add MCP servers to an agent and test them to see hwo they work together and pass contextual data
+-  Understand how obserability works for agents that are part of Agent 365
+
+### 💻 Technologies Used
+
+1. Microsoft Copilot Studio
+1. Model Context Protocol (MCP) servers for Outlook Mail, Outlook Calendar, and OneDrive and SharePoint
 
 ### 🌟 Microsoft Learn MCP Server
 
@@ -24,12 +39,33 @@ For more information, setup instructions for other dev clients, and to post comm
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for AI Tour 26 Sessions |
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
 
 ## Content Owners
 
-- Philip Li
+<!-- TODO: Add yourself as a content owner
+1. Change the src in the image tag to {your github url}.png
+2. Change INSERT NAME HERE to your name
+3. Change the github url in the final href to your url. -->
+
+<table>
+<tr>
+    <td align="center"><a href="http://github.com/nhelgren">
+        <img src="https://github.com/nhelgren.png" width="100px;" alt="Nathan Helgren"
+"/><br />
+        <sub><b> Nathan Helgren
+</b></sub></a><br />
+            <a href="https://github.com/nhelgren" title="talk">📢</a> 
+    </td>
+    <td align="center"><a href="http://github.com/rakrish75">
+        <img src="https://github.com/rakrish75.png" width="100px;" alt="Rakesh Krishnan
+"/><br />
+        <sub><b>Rakesh Krishnan
+</b></sub></a><br />
+            <a href="https://github.com/rakrish75" title="talk">📢</a> 
+    </td>
+</tr></table>
 
 
 ## Contributing
